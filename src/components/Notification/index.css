@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.result {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.each {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.logo {
+  align-self: center;
+  margin: 10px;
+}
